@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/grantask/static/css/main.073c9b0a.css",
+    "main.js": "/grantask/static/js/main.a2b67d65.js",
+    "static/js/787.0c3f432a.chunk.js": "/grantask/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/grantask/index.html",
+    "main.073c9b0a.css.map": "/grantask/static/css/main.073c9b0a.css.map",
+    "main.a2b67d65.js.map": "/grantask/static/js/main.a2b67d65.js.map",
+    "787.0c3f432a.chunk.js.map": "/grantask/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a2b67d65.js"
+  ]
+}
